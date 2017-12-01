@@ -11,7 +11,7 @@ gem 'rails', '~> 5.1.4'
 
 
 # allow browser access to api
-gem 'rack-cors'
+# gem 'rack-cors'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
